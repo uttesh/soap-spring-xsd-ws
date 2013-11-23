@@ -19,5 +19,6 @@ This is simple Web service implementation using SOAP and Spring with XSD file fo
 
 <h4>CODE FLOW</h4>
 <hr/>
+![Flow](https://github.com/uttesh/soap-spring-xsd-ws/blob/master/soap_spring_ws.png)
 
 
