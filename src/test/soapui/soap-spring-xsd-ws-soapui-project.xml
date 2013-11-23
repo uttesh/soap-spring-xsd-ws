@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:soap="http://soap.ws.xsd.uttesh.com/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <soap:Invite>
+         <!--Optional:-->
+         <arg0>
+            <!--Optional:-->
+            <name>Uttesh Kumar</name>
+            <!--Optional:-->
+            <location>Bangalore</location>
+            <!--Optional:-->
+            <occation>Mando DB seminar</occation>
+            <!--Optional:-->
+            <address>#4,Bangalore</address>
+         </arg0>
+      </soap:Invite>
+   </soapenv:Body>
+</soapenv:Envelope>
